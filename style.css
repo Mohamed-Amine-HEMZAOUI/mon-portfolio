@@ -1,0 +1,30 @@
+/* Règle 1 : police et couleurs générales de la page */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6f8;
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* Règle 2 : marges et largeur du contenu */
+body {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* Règle 3 : couleur et espacement des titres */
+h1, h2 {
+  color: #1a4e8a;
+  margin-bottom: 10px;
+}
+
+/* Règle 4 : style des liens */
+a {
+  color: #1a4e8a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
